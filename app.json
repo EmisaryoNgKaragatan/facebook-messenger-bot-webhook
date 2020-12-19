@@ -10,11 +10,11 @@
     "env": {
         "VERIFY_TOKEN": {
             "description": "A secret key needed to check calls from Facebook.",
-            "value": "TEST"
+            "value": "AkoAngEmisaryoNgKaragatan"
         },
         "PAGE_ACCESS_TOKEN": {
             "description": "The Page Token provided by Facebook under Get Page Access Token section",
-            "value": "NULL"
+            "value": "EAAPFASvTHigBAG6zWKd6kJhdEKipY2PBgRxuYo5eo8GIGn8uM4YZA8ZC5Jq8i0hxS8L7EGCGaRN0PUy2V39bOsYwLWrs4Kb5wR3xO8jW3fmFlMO5z07C4oSXSAU9YvGjsqlZCAkJcWrFhrpAwNZB0SMFP7b4G4QyX0xB3ctJ8AZDZD"
         }
     }
 }
