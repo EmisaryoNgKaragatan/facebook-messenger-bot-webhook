@@ -2,6 +2,8 @@ var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
 var request = require('request');
+const dotenv = require('dotenv');
+dotenv.config();
 
 app.use(bodyParser.json());
 
